@@ -118,7 +118,7 @@
   </header>
 
   <stripe-buy-button
-    buy-button-id="buy_btn_1OE057BY7L5WREAJ6K34t1rV"
+    buy-button-id="buy_btn_1OJSIJBY7L5WREAJrhjOWJyb"
     publishable-key="update-with-your-stripe-credentials"
   >
   </stripe-buy-button>
@@ -131,7 +131,7 @@
 
   {#if showQRCode}
     <div class="qr-code show-qr-code">
-      <img src="donate.png" alt="Stripe QR Code" class="qr-image" />
+      <img src="mc_stripe.png" alt="Stripe QR Code" class="qr-image" />
     </div>
   {/if}
 </main>
